@@ -1,4 +1,4 @@
-# FGCD
+# FGCDR
 A fine-grained cloud detection and recognition task: data and method
 
 ###################################################################
