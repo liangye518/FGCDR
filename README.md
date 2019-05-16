@@ -2,10 +2,12 @@
 A fine-grained cloud detection and recognition task: data and method
 
 ###################################################################
+
 Supervised fine-grained cloud detection and recognition 
 in whole-sky images 
 V1.0
 Accepted by TGRS
+
 ###################################################################
 
 The source was developed under windows with Matlab 2014a.
@@ -22,6 +24,7 @@ If you use our dataset or codes, please cite our papers:
 	title = {Supervised Fine-grained Cloud Detection and Recognition in Whole-sky Images},
 	year = {2019}
 }
+
 ###################################################################
 
 License.
